@@ -1,7 +1,0 @@
-﻿  Main.cpp
-d:\profiles\njp2424\desktop\physics\level5\physics-sat3dobb-mastervs2019\sat3dobb\main.cpp(176): warning C4018: '<': signed/unsigned mismatch
-d:\profiles\njp2424\desktop\physics\level5\physics-sat3dobb-mastervs2019\sat3dobb\main.cpp(197): warning C4018: '<': signed/unsigned mismatch
-d:\profiles\njp2424\desktop\physics\level5\physics-sat3dobb-mastervs2019\sat3dobb\main.cpp(216): warning C4018: '<': signed/unsigned mismatch
-d:\profiles\njp2424\desktop\physics\level5\physics-sat3dobb-mastervs2019\sat3dobb\main.cpp(327): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-d:\profiles\njp2424\desktop\physics\level5\physics-sat3dobb-mastervs2019\sat3dobb\main.cpp(354): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-  SAT3DOBB.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level5\physics-SAT3DOBB-masterVS2019\SAT3DOBB\Debug\SAT3DOBB.exe
